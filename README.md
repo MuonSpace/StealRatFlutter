@@ -1,7 +1,7 @@
 # Стань стальной крысой
-![Навигация между главами](https://ibb.co/fCtGnBz)
-![Начальный экран](https://ibb.co/VH7Mczs)
-![Боковое меню](https://ibb.co/pRsGtbx)
+![Навигация между главами](https://i.ibb.co/D7kg8sH/ir-WQCfj-8-PU.jpg)
+![Начальный экран](https://i.ibb.co/1sDRtPk/R0-Kr-D-1-Y9-LY.jpg)
+![Боковое меню](https://i.ibb.co/s6Dk0b2/vv2k50fnr-IM.jpg)
 
 Мой первый проект на Flutter.
 
